@@ -34,3 +34,8 @@ label {
 .error-feedback {
     color: red;
 }
+
+.form-group button {
+    margin-right: 8px;
+    /* Điều chỉnh giá trị nếu cần */
+}
